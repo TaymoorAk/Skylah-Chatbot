@@ -1,0 +1,18 @@
+sci=['Do you know anything about science?','Yes,I do',
+     'what disease does a carcinogen cause?',"cancer.",
+     'what is a wavelength?',"wavelength is the inverse of frequency.",
+     'what is thermodynamics?',"the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy.",
+     'what is chemistry?','the science of mixing chemicals.',
+     'what is crystallography?','this is the science dealing with the study of crystals.',
+     'what is ultrasound?','ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc.',
+     'what is bioinformatics?','a fancy name for applied computer science in biology.',
+     'what is gravitation?',"the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter.",
+     'how far is the Sun?','the sun is about 93 million miles from earth.',
+     'how far is the Sun from Earth?','the sun is about 93 million miles from earth.',
+     'how far is the moon?','the moon is about 250,000 miles from earth on average.',
+     'how far is the Moon from Earth?','the moon is about 250,000 miles from earth on average.',
+     'cool','thanks',
+     'wow',':-D',
+     'nice','thanks',
+     'Impressive','Thank you!'
+]
